@@ -1,6 +1,6 @@
 # dataset settings
 dataset_type = "mmrotate.DVDataset"
-data_root = "data/DV_cropped"  #
+data_root = "data/dv"  #
 backend_args = None
 
 train_pipeline = [
